@@ -1,4 +1,4 @@
-# Interactive Quiz
+# Interactive Quiz  Page
 
 This is an interactive quiz page created using HTML, CSS, and JavaScript. It includes a set of multiple-choice questions for users to answer. The quiz keeps track of the user's score and provides feedback on their answers. Additionally, it features a timer for each question and a restart button to retake the quiz.
 ## Installation
@@ -42,6 +42,10 @@ Responsive Design: The quiz is designed to work on both desktop and mobile devic
 
 Immediate Feedback: Users receive immediate feedback on the correctness of their answers.
 
-## Website
+## Quiz Website
 
 [https://quiz-application-by-sudheer.netlify.app/](https://quiz-application-by-sudheer.netlify.app/)
+
+## Portifolio
+
+[https://sudheer-portifolio.netlify.app/](https://sudheer-portifolio.netlify.app/)
